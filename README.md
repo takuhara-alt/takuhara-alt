@@ -1,7 +1,6 @@
-# Hi there 👋
+## 🔥 GitHub Summary Cards
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takuhara-alt=default)
-
-![](https://skillicons.dev/icons?i=html,css,js,typescript,cobol,react,node.js,)
-
-
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takuhara-alt&theme=dracula)
+![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takuhara-alt&theme=dracula&utcOffset=9)
+![Most Used Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takuhara-alt&theme=dracula)
+![Language Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takuhara-alt&theme=dracula)
