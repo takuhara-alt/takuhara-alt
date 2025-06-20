@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=takuhara-alt_icons=true&locale=en&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,cobol,react,node.js,)
 
