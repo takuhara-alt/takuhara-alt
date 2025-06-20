@@ -1,6 +1,16 @@
-## 🔥 GitHub Summary Cards
+## 📊 Most Used Languages
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takuhara-alt&theme=dracula)
-![Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takuhara-alt&theme=dracula&utcOffset=9)
-![Most Used Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takuhara-alt&theme=dracula)
-![Language Breakdown](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takuhara-alt&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=takuhara-alt&show_icons=true&locale=en&layout=compact&langs_count=10)
+
+---
+
+## 🧠 Skill Icons
+
+<!-- Java, C#, C++, COBOL, HTML, CSS, JavaScript, TypeScript -->
+![](https://skillicons.dev/icons?i=java,cs,cpp,cobol,html,css,js,ts)
+
+---
+
+## 📈 活動グラフ
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takuhara-alt&theme=default)
