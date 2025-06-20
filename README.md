@@ -6,8 +6,8 @@
 
 ## 🧠 Skill Icons
 
-<!-- Java, C#, C++, COBOL, HTML, CSS, JavaScript, TypeScript -->
-![](https://skillicons.dev/icons?i=java,cs,cpp,cobol,html,css,js,ts)
+<!-- Java, C#, C++, , HTML, CSS, JavaScript, TypeScript -->
+![](https://skillicons.dev/icons?i=java,cs,cpp,html,css,js,ts)
 
 ---
 
